@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Bang Min Seok"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "풀스택을 꿈꾸는 예비프론트엔드 개발자"
+  bio              : "풀스택을 꿈꾸는 개발자"
   email            :
   links:
     - label: "Email"
