@@ -20,7 +20,7 @@ title                    : "Bang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "BangMinSeok"
-description              : "풀스택을 꿈꾸는 예비프론트엔드 개발자"
+description              : "풀스택을 꿈꾸는 개발자"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,6 @@ author:
   name             : "Bang Min Seok"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "풀스택을 꿈꾸는 예비프론트엔드 개발자"
-  location         : ""
   email            :
   links:
     - label: "Email"
