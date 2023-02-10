@@ -171,6 +171,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /blog
 keep_files:
   - .git
   - .svn
@@ -267,7 +268,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  _posts
   - scope:
       path: ""
       type: posts
